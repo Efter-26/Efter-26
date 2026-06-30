@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-**Efter-26/Efter-26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋 I'm Efter...
 
 - 🔭 I’m currently working on scalable Full Stack web applications, AI-powered solutions, and modern e-commerce platforms.
 
@@ -16,7 +13,6 @@
 - 😄 Pronouns: She/Her
 
 - ⚡ Fun fact: I've published IEEE research, won the Best Technical Presentation Award at ICCIT, enjoy solving competitive programming problems, and love turning coffee ☕ into clean, scalable code.
--->
 
 
 ## 🌐 Socials:
