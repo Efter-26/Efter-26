@@ -8,7 +8,7 @@
 
 - 💬 Ask me about Full Stack Development, Next.js, React, Node.js, Python, AI & Machine Learning, Software Testing, REST APIs, and Competitive Programming.
 
-- 📫 How to reach me: your.email@example.com | LinkedIn: linkedin.com/in/your-profile
+- 📫 How to reach me: efterjahanema@gmail.com | LinkedIn: https://www.linkedin.com/in/efter-jahan-ema-143119214/
 
 - 😄 Pronouns: She/Her
 
